@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Guzman Green Land & Tree LLC",
+    "phone": "+19802985345",
+    "category": "hardscaping contractor",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Hardscape Authority",
+      "heroSubline": "Transforming outdoor spaces with enduring craftsmanship. Guzman Green Land & Tree: Building Charlotte, one project at a time.",
+      "aboutTitle": "Built on Charlotte Soil",
+      "aboutText": [
+        "Guzman Green Land & Tree was founded over a decade ago, right here in Charlotte. We saw a need for dependable hardscaping that could withstand our unique climate – the red clay, the summer heat, and the occasional ice storm. We're not just contractors; we're your neighbors.",
+        "Our approach is simple: quality materials, skilled labor, and unwavering commitment to your vision. We understand the nuances of Charlotte's landscape, from the older ranch homes in Dilworth to the modern developments in Ballantyne. We build it right the first time, so you can enjoy it for years to come.",
+        "We believe in giving back to the community that has supported us. We actively participate in local initiatives and prioritize sourcing materials from local suppliers whenever possible. Guzman Green Land & Tree is invested in the long-term prosperity of Charlotte."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Charlotte's climate, soil, and building codes. We're not just contractors, we're your neighbors."
+        },
+        {
+          "title": "Unwavering Quality",
+          "description": "From pavers to retaining walls, we use only the best materials and proven techniques to ensure lasting results."
+        },
+        {
+          "title": "Dedicated Team",
+          "description": "Our skilled team brings years of experience to every project, ensuring meticulous attention to detail and superior craftsmanship."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed every step of the way, from initial consultation to project completion. No surprises, just exceptional service."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Outdoor Space?",
+      "ctaSubline": "Contact Guzman Green Land & Tree today for a free consultation. Let's bring your hardscaping vision to life."
+    },
+    "services": [
+      {
+        "slug": "paver-installation",
+        "name": "Paver Installation",
+        "shortDescription": "Durable and beautiful paver solutions for patios, walkways, and driveways.",
+        "description": "Guzman Green Land & Tree delivers exceptional paver installation services throughout Charlotte. We handle everything from initial design to final sealing, ensuring a stunning and enduring result. Whether you're looking to enhance your patio, create an inviting walkway, or build a durable driveway, we've got you covered. Our team specializes in a variety of paver materials, including concrete, brick, and natural stone. We understand the challenges of Charlotte's red clay soil and implement proper base preparation techniques to prevent settling and cracking. Paver installation is more than just laying stones; it's about crafting a functional and aesthetically pleasing space that complements your home and lifestyle. We work closely with you to select the perfect paver style, color, and pattern to achieve your desired look. Don't settle for less than the best when it comes to your paver project. Trust Guzman Green Land & Tree to deliver superior craftsmanship and lasting value.",
+        "process": [
+          "Step 1: Site Assessment & Design Consultation",
+          "Step 2: Excavation & Base Preparation",
+          "Step 3: Paver Installation & Leveling",
+          "Step 4: Joint Sanding & Sealing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable & Long-Lasting",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of pavers are best for Charlotte's climate?",
+            "answer": "Concrete pavers are a popular choice due to their durability and resistance to freeze-thaw cycles. Natural stone pavers offer a timeless aesthetic but may require more maintenance."
+          },
+          {
+            "question": "How long does paver installation typically take?",
+            "answer": "The duration depends on the size and complexity of the project. A small patio may take a few days, while a large driveway could take a week or more. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do you offer a warranty on your paver installations?",
+            "answer": "Yes, we offer a warranty on our workmanship and materials. We stand behind the quality of our work and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Functional and aesthetically pleasing retaining walls to control erosion and enhance your landscape.",
+        "description": "Guzman Green Land & Tree specializes in designing and building durable retaining walls that address erosion issues and enhance the beauty of your property. Charlotte's rolling terrain and red clay soil often necessitate retaining walls to prevent soil erosion and create usable outdoor spaces. We understand the structural requirements and aesthetic considerations involved in building effective and attractive retaining walls. Our team has extensive experience with various retaining wall materials, including concrete blocks, natural stone, and timber. We carefully assess your property's specific needs and recommend the most appropriate solution. Proper drainage is crucial for the longevity of retaining walls. We implement effective drainage systems to prevent water buildup and ensure the wall's structural integrity. Whether you need a small garden wall or a large structural retaining wall, Guzman Green Land & Tree has the expertise and resources to get the job done right.",
+        "process": [
+          "Step 1: Site Evaluation & Engineering Design",
+          "Step 2: Excavation & Foundation Preparation",
+          "Step 3: Wall Construction & Drainage Installation",
+          "Step 4: Backfilling & Compaction"
+        ],
+        "benefits": [
+          "Erosion Control",
+          "Increased Usable Space",
+          "Enhanced Landscape Aesthetics",
+          "Property Value Improvement"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for retaining walls in Charlotte?",
+            "answer": "Concrete blocks are a popular and cost-effective option. Natural stone offers a more aesthetically pleasing look but may be more expensive. Timber is a good choice for smaller, decorative walls."
+          },
+          {
+            "question": "How important is drainage for a retaining wall?",
+            "answer": "Proper drainage is essential to prevent water buildup behind the wall, which can lead to structural failure. We always incorporate drainage systems into our retaining wall designs."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Permit requirements vary depending on the height and location of the wall. We can assist you with the permitting process."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-fireplaces",
+        "name": "Outdoor Fireplaces",
+        "shortDescription": "Custom-built outdoor fireplaces for year-round enjoyment in your backyard.",
+        "description": "Transform your backyard into a cozy retreat with a custom-built outdoor fireplace from Guzman Green Land & Tree. Imagine gathering with friends and family around a crackling fire on a cool Charlotte evening. We design and build outdoor fireplaces that are both functional and aesthetically pleasing. Our team can create a fireplace that complements your home's style and your outdoor living space. We use high-quality materials and construction techniques to ensure a safe and durable fireplace. From traditional brick fireplaces to modern stone designs, we can bring your vision to life. Consider adding built-in seating and storage for firewood to create a complete outdoor entertainment area. We handle all aspects of the project, from design and construction to gas line installation (if applicable) and safety inspections. Let Guzman Green Land & Tree create the perfect outdoor fireplace for your Charlotte home.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Site Preparation & Foundation Construction",
+          "Step 3: Fireplace Construction & Venting Installation",
+          "Step 4: Finishing Touches & Safety Inspection"
+        ],
+        "benefits": [
+          "Extended Outdoor Season",
+          "Enhanced Ambiance",
+          "Increased Property Value",
+          "Perfect for Entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What type of fuel can I use in an outdoor fireplace?",
+            "answer": "You can choose between wood-burning, gas-burning, or propane-burning fireplaces. Each option has its own advantages and disadvantages. We can help you choose the best option for your needs."
+          },
+          {
+            "question": "Do I need a permit for an outdoor fireplace?",
+            "answer": "Yes, you typically need a permit for an outdoor fireplace. We can assist you with the permitting process and ensure your fireplace meets all code requirements."
+          },
+          {
+            "question": "How close can I build an outdoor fireplace to my house?",
+            "answer": "Building codes specify minimum distances between outdoor fireplaces and structures. We will ensure your fireplace meets all safety requirements."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Design and build fully equipped outdoor kitchens for ultimate outdoor entertaining.",
+        "description": "Elevate your outdoor living experience with a custom-designed outdoor kitchen from Guzman Green Land & Tree. Imagine grilling up your favorite meals and entertaining guests in your own backyard oasis. We specialize in creating functional and stylish outdoor kitchens that meet your specific needs and preferences. Our team can design and build a complete outdoor kitchen, including grills, countertops, sinks, refrigerators, and storage. We use durable and weather-resistant materials to ensure your outdoor kitchen can withstand Charlotte's climate. Consider adding a bar area, seating, and lighting to create a complete outdoor entertainment space. We handle all aspects of the project, from design and construction to plumbing and electrical work. Let Guzman Green Land & Tree create the perfect outdoor kitchen for your Charlotte home.",
+        "process": [
+          "Step 1: Design Consultation & Appliance Selection",
+          "Step 2: Site Preparation & Foundation Construction",
+          "Step 3: Kitchen Installation & Plumbing/Electrical Hookup",
+          "Step 4: Finishing Touches & Appliance Testing"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Living",
+          "Increased Home Value",
+          "Perfect for Entertaining",
+          "Convenient Cooking & Dining"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for outdoor kitchen countertops?",
+            "answer": "Granite, concrete, and stainless steel are popular choices for outdoor kitchen countertops due to their durability and weather resistance."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "Yes, you typically need a permit for an outdoor kitchen, especially if it involves plumbing or electrical work. We can assist you with the permitting process."
+          },
+          {
+            "question": "How much does an outdoor kitchen cost?",
+            "answer": "The cost of an outdoor kitchen varies depending on the size, materials, and appliances you choose. We can provide you with a detailed estimate after a consultation."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Effective drainage solutions to protect your property from water damage in Charlotte.",
+        "description": "Guzman Green Land & Tree provides comprehensive drainage solutions to address water management issues on your property. Charlotte's heavy rainfall and red clay soil can lead to drainage problems, including standing water, erosion, and foundation damage. We understand the importance of proper drainage and offer a range of solutions to protect your home and landscape. Our team can assess your property's drainage needs and recommend the most effective solution, including French drains, surface drains, downspout extensions, and grading adjustments. We use high-quality materials and proven techniques to ensure long-lasting results. Don't let water damage compromise your property's value and safety. Trust Guzman Green Land & Tree to provide expert drainage solutions that keep your property dry and protected.",
+        "process": [
+          "Step 1: Site Assessment & Drainage Analysis",
+          "Step 2: Solution Design & Material Selection",
+          "Step 3: Installation & Grading Adjustments",
+          "Step 4: Testing & Final Inspection"
+        ],
+        "benefits": [
+          "Erosion Control",
+          "Foundation Protection",
+          "Reduced Mosquito Breeding",
+          "Improved Landscape Health"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor drainage?",
+            "answer": "Signs of poor drainage include standing water, soggy soil, erosion, and water damage to your foundation."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel and a perforated pipe that redirects water away from your property."
+          },
+          {
+            "question": "How much does drainage work cost?",
+            "answer": "The cost of drainage work varies depending on the complexity of the project. We can provide you with a detailed estimate after a site assessment."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-and-arbors",
+        "name": "Pergolas and Arbors",
+        "shortDescription": "Enhance your outdoor space with custom-built pergolas and arbors.",
+        "description": "Add elegance and shade to your Charlotte landscape with a custom-built pergola or arbor from Guzman Green Land & Tree. We design and construct beautiful and functional pergolas and arbors that enhance the aesthetic appeal of your outdoor space. Whether you envision a shaded seating area, a climbing plant support, or a decorative entryway, we can bring your vision to life. Our team uses high-quality materials and construction techniques to ensure a durable and long-lasting structure. Choose from a variety of styles and materials, including wood, vinyl, and metal. Consider adding lighting and climbing plants to create a truly enchanting outdoor space. Let Guzman Green Land & Tree create the perfect pergola or arbor for your Charlotte home.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Site Preparation & Foundation Construction",
+          "Step 3: Structure Assembly & Installation",
+          "Step 4: Finishing Touches & Customization"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Aesthetics",
+          "Shaded Seating Area",
+          "Climbing Plant Support",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between a pergola and an arbor?",
+            "answer": "A pergola is a larger, more substantial structure with a roof-like framework, while an arbor is typically a smaller, more decorative structure often used as an entryway or garden accent."
+          },
+          {
+            "question": "What materials are best for pergolas and arbors in Charlotte?",
+            "answer": "Wood, vinyl, and metal are all popular choices for pergolas and arbors. Wood offers a natural look but requires more maintenance. Vinyl is low-maintenance and weather-resistant. Metal is durable and can be powder-coated for a variety of colors."
+          },
+          {
+            "question": "Do I need a permit for a pergola or arbor?",
+            "answer": "Permit requirements vary depending on the size and location of the structure. We can assist you with the permitting process."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-work",
+        "name": "Concrete Work",
+        "shortDescription": "Reliable concrete solutions for driveways, patios, and walkways in Charlotte.",
+        "description": "Guzman Green Land & Tree delivers top-quality concrete services throughout the Charlotte area. We understand the importance of durable and well-executed concrete work for driveways, patios, walkways, and other outdoor surfaces. Our team has extensive experience in all aspects of concrete construction, from site preparation and formwork to pouring, finishing, and sealing. We use high-quality concrete mixes and proven techniques to ensure long-lasting results. Whether you need a new concrete driveway, a replacement patio, or a set of walkways, we've got you covered. We also offer decorative concrete options, such as stamped concrete and colored concrete, to enhance the aesthetic appeal of your outdoor spaces. Trust Guzman Green Land & Tree to provide reliable and professional concrete services that meet your needs and exceed your expectations.",
+        "process": [
+          "Step 1: Site Preparation & Formwork",
+          "Step 2: Concrete Pouring & Leveling",
+          "Step 3: Finishing & Texturing",
+          "Step 4: Curing & Sealing"
+        ],
+        "benefits": [
+          "Durable & Long-Lasting",
+          "Low Maintenance",
+          "Versatile Design Options",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does concrete take to cure?",
+            "answer": "Concrete typically takes 28 days to reach its full strength, but it can be walked on after a few days."
+          },
+          {
+            "question": "What is stamped concrete?",
+            "answer": "Stamped concrete is concrete that is patterned or textured to resemble brick, stone, or other materials."
+          },
+          {
+            "question": "How do I prevent concrete from cracking?",
+            "answer": "Proper site preparation, reinforcement, and curing are essential to prevent concrete from cracking. We take all necessary precautions to ensure the longevity of our concrete work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC is proud to offer comprehensive hardscaping services to the residents of Huntersville, NC. Known for its rapid growth and abundance of 1990s-2000s suburban developments, Huntersville presents unique opportunities for enhancing outdoor living spaces. We understand the specific needs of homeowners in this area, from designing patios perfect for summer evenings to installing durable walkways that can withstand the hot, humid summers. \n\nOur team is experienced in creating custom hardscaping solutions that complement the architectural styles prevalent in Huntersville's neighborhoods. Whether you're looking to add a retaining wall for erosion control, a fire pit for cozy gatherings, or a complete outdoor kitchen, Guzman Green Land & Tree LLC is committed to providing exceptional craftsmanship and customer satisfaction.",
+        "localContext": "Huntersville's blend of established communities and newer developments makes it a vibrant place to call home, and we're here to help you make the most of your outdoor space.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC provides expert hardscaping services to homeowners in Concord, NC. With its numerous 1980s-90s family homes, Concord offers a great backdrop for beautiful and functional outdoor spaces. We understand the importance of creating durable and aesthetically pleasing hardscapes that can withstand the test of time and the hot, humid summers typical of the region.\n\nFrom designing welcoming front walkways to crafting backyard patios perfect for entertaining, our team is dedicated to bringing your hardscaping visions to life. We work closely with our clients to ensure that every project reflects their individual style and enhances the overall value of their property. Guzman Green Land & Tree LLC is your trusted partner for all your hardscaping needs in Concord.",
+        "localContext": "Concord's family-friendly atmosphere and established neighborhoods make it a wonderful place to live, and we're dedicated to helping you create an outdoor space you'll love.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC is pleased to offer professional hardscaping services to the residents of Matthews, NC. Characterized by its established 1970s-80s suburban communities, Matthews offers a unique blend of charm and convenience. We understand the importance of creating outdoor spaces that complement the existing landscape and enhance the beauty of your home.\n\nOur team specializes in designing and installing hardscapes that are both functional and aesthetically pleasing. Whether you're looking to add a patio for outdoor dining, a walkway for easy access, or a retaining wall for added privacy and erosion control, Guzman Green Land & Tree LLC is committed to providing exceptional service and quality craftsmanship. We understand the climate here and build for the long term.",
+        "localContext": "Matthews' established neighborhoods and community spirit make it a great place to call home, and we're here to help you create the outdoor space of your dreams.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Weddington",
+          "Stallings"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-sc",
+        "state": "SC",
+        "content": "Guzman Green Land & Tree LLC extends its expert hardscaping services to Fort Mill, SC, a town known for its newer 2000s-2020s planned communities and rapid growth. We understand the desire to create outdoor spaces that reflect the modern aesthetic and lifestyle of Fort Mill residents. Our team is equipped to handle any hardscaping project, from designing contemporary patios to installing sleek walkways that complement the architectural styles of the area.\n\nWe are committed to using high-quality materials and providing exceptional service to ensure your complete satisfaction. Whether you envision a relaxing outdoor oasis or a functional space for entertaining, Guzman Green Land & Tree LLC is your trusted partner for all your hardscaping needs in Fort Mill. We know the climate and soil conditions here.",
+        "localContext": "Fort Mill's thriving community and modern homes make it a desirable place to live, and we're dedicated to helping you create an outdoor space that enhances your lifestyle.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Rock Hill",
+          "Indian Land"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC is proud to offer reliable and affordable hardscaping services to the residents of Gastonia, NC. With its rich history and numerous 1960s-70s working-class homes, Gastonia presents unique opportunities for enhancing outdoor living spaces. We understand the importance of creating durable and functional hardscapes that meet the needs of homeowners in this area.\n\nOur team specializes in designing and installing patios, walkways, retaining walls, and other hardscaping features that add value and beauty to your property. We are committed to providing exceptional service and quality craftsmanship at a price that fits your budget. Guzman Green Land & Tree LLC is your trusted partner for all your hardscaping needs in Gastonia.",
+        "localContext": "Gastonia's friendly community and affordable living make it a great place to call home, and we're here to help you enhance your outdoor space.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Belmont",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC is dedicated to providing top-quality hardscaping services to the residents of Cornelius, NC. Located on the shores of Lake Norman, Cornelius offers stunning waterfront properties and a thriving community. We understand the importance of creating outdoor spaces that maximize the beauty of the natural surroundings and enhance the value of your home.\n\nOur team is experienced in designing and installing patios, decks, walkways, and other hardscaping features that are both functional and aesthetically pleasing. We take pride in our attention to detail and our commitment to customer satisfaction. Whether you're looking to create a relaxing outdoor oasis or a functional space for entertaining, Guzman Green Land & Tree LLC is your trusted partner for all your hardscaping needs in Cornelius.",
+        "localContext": "Cornelius's lakefront location and vibrant community make it a desirable place to live, and we're here to help you make the most of your outdoor space.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Davidson",
+        "slug": "davidson-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC provides expert hardscaping solutions to Davidson, NC, known for Davidson College and its charming, historic atmosphere. We understand the importance of preserving the town's character while enhancing outdoor living spaces with beautiful and functional hardscapes. Our team specializes in creating custom designs that complement the architectural styles prevalent in Davidson, from classic brick patios to elegant stone walkways.\n\nWe are committed to using high-quality materials and providing exceptional craftsmanship to ensure your complete satisfaction. Whether you're looking to create a cozy outdoor retreat or a welcoming space for entertaining, Guzman Green Land & Tree LLC is your trusted partner for all your hardscaping needs in Davidson. Let us help you make the most of your property!",
+        "localContext": "Davidson's historic charm and academic atmosphere make it a unique place to live, and we're dedicated to helping you create an outdoor space that reflects its character.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Huntersville",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Mooresville",
+        "slug": "mooresville-nc",
+        "state": "NC",
+        "content": "Guzman Green Land & Tree LLC is proud to offer comprehensive hardscaping services to the residents of Mooresville, NC, often called 'Race City USA'. With a focus on quality and customer satisfaction, we provide custom hardscaping solutions tailored to the unique needs of Mooresville homeowners. Whether you're looking to enhance your backyard with a custom patio, add a functional retaining wall, or create an inviting outdoor living area, our team is ready to bring your vision to life.\n\nWe understand the local climate and work with materials that are durable and aesthetically pleasing, ensuring your hardscaping project stands the test of time. From design to installation, Guzman Green Land & Tree LLC is committed to excellence in every aspect of our service, making us your trusted partner for all hardscaping needs in Mooresville.",
+        "localContext": "Mooresville's lakeside charm and vibrant community make it a wonderful place to live, and we're dedicated to helping you create an outdoor space you'll love.",
+        "nearbyAreas": [
+          "Davidson",
+          "Cornelius",
+          "Huntersville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Paver Patio Installation",
+        "text": "Guzman Green Land & Tree did an amazing job on our paver patio! The crew was professional, efficient, and the finished product exceeded our expectations. They transformed our backyard into a beautiful and functional space. We highly recommend them!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Retaining Wall Construction",
+        "text": "We hired Guzman Green Land & Tree to build a retaining wall to prevent erosion in our backyard. They did a great job, but the project took a little longer than expected. Overall, we are happy with the results and would use them again.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "Outdoor Fireplace Installation",
+        "text": "We love our new outdoor fireplace! Guzman Green Land & Tree did a fantastic job designing and building it. It's the perfect addition to our backyard and we've already enjoyed many evenings around the fire.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "John L.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "Guzman Green Land & Tree solved our drainage problems! Our backyard used to be a swamp after it rained, but now it's dry and usable. They were professional and efficient, and we highly recommend them.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Concrete Driveway Replacement",
+        "text": "We had Guzman Green Land & Tree replace our old, cracked driveway. They did a good job, but there were a few minor imperfections in the finish. Overall, we are satisfied with the work and the price was reasonable.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Pergola Construction",
+        "text": "Guzman Green Land & Tree built a beautiful pergola for our patio. They helped us design the perfect structure and the craftsmanship is excellent. We couldn't be happier!",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Guzman Green: Charlotte Hardscaping",
+        "description": "Expert hardscaping in Charlotte, NC. Paver patios, retaining walls, outdoor kitchens. Quality work, done right."
+      },
+      "about": {
+        "title": "About Guzman Green Land & Tree",
+        "description": "Learn about Guzman Green Land & Tree LLC, Charlotte's leading hardscaping contractor. Our commitment to quality and community."
+      },
+      "services": {
+        "title": "Hardscaping Services | Charlotte, NC",
+        "description": "Comprehensive hardscaping services in Charlotte. Pavers, retaining walls, outdoor kitchens, drainage. Free quotes!"
+      },
+      "contact": {
+        "title": "Contact Guzman Green Land & Tree",
+        "description": "Contact Guzman Green Land & Tree for a free hardscaping consultation in Charlotte, NC. Call now!"
+      },
+      "reviews": {
+        "title": "Guzman Green Land & Tree Reviews",
+        "description": "Read reviews for Guzman Green Land & Tree, Charlotte's trusted hardscaping contractor. See what our clients say!"
+      },
+      "service-areas": {
+        "title": "Guzman Green Service Areas",
+        "description": "Hardscaping services in Charlotte, Huntersville, Concord, Matthews, Fort Mill, Gastonia. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "paver-installation": "/images/service-paver-installation.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "outdoor-fireplaces": "/images/service-outdoor-fireplaces.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "pergolas-and-arbors": "/images/service-pergolas-and-arbors.webp",
+      "concrete-work": "/images/service-concrete-work.webp"
+    },
+    "servicesResponsive": {
+      "paver-installation": {
+        "src": "/images/service-paver-installation.webp",
+        "srcset": "/images/service-paver-installation-400w.webp 400w, /images/service-paver-installation-800w.webp 800w, /images/service-paver-installation-1200w.webp 1200w, /images/service-paver-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-fireplaces": {
+        "src": "/images/service-outdoor-fireplaces.webp",
+        "srcset": "/images/service-outdoor-fireplaces-400w.webp 400w, /images/service-outdoor-fireplaces-800w.webp 800w, /images/service-outdoor-fireplaces-1200w.webp 1200w, /images/service-outdoor-fireplaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-and-arbors": {
+        "src": "/images/service-pergolas-and-arbors.webp",
+        "srcset": "/images/service-pergolas-and-arbors-400w.webp 400w, /images/service-pergolas-and-arbors-800w.webp 800w, /images/service-pergolas-and-arbors-1200w.webp 1200w, /images/service-pergolas-and-arbors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-work": {
+        "src": "/images/service-concrete-work.webp",
+        "srcset": "/images/service-concrete-work-400w.webp 400w, /images/service-concrete-work-800w.webp 800w, /images/service-concrete-work-1200w.webp 1200w, /images/service-concrete-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

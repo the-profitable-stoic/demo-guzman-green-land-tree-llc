@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-guzman-green-land-tree-llc.dream-surge.com/sitemap-index.xml
